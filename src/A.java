@@ -1,4 +1,4 @@
 public class A {
-    String c1;
+    protected String c1 = "rojo";
     String c2;
 }
